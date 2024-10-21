@@ -1,0 +1,5 @@
+{
+    "BOT_TOKEN": "Here u put the bots token",
+    "GUILD_ID": "The servers id",
+    "MESSAGE_TO_ALL_MEMBERS": "Here u can add the message u want to send (ex, Hello there join my server: https://discord.gg/invite"  
+  }
